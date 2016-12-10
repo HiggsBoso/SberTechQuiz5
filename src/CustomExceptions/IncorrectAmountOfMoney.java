@@ -1,4 +1,4 @@
-package com.company;
+package CustomExceptions;
 
 /**
  * Created by Someone on 04.12.2016.

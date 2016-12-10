@@ -1,5 +1,8 @@
 package com.company;
 
+import CustomExceptions.IncorrectAmountOfMoney;
+import CustomExceptions.NotEnoughMoneyException;
+
 import java.util.Scanner;
 
 /**
